@@ -1,7 +1,7 @@
 {
   "name": "jest-cli",
   "description": "Delightful JavaScript Testing.",
-  "version": "27.0.0-next.3",
+  "version": "27.0.1-next.0",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "exports": {
@@ -10,7 +10,7 @@
     "./bin/jest": "./bin/jest.js"
   },
   "dependencies": {
-    "@jest/core": "^27.0.0-next.3",
+    "@jest/core": "^27.0.1-next.0",
     "@jest/test-result": "^27.0.0-next.3",
     "@jest/types": "^27.0.0-next.3",
     "chalk": "^4.0.0",

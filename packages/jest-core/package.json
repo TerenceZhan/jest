@@ -1,7 +1,7 @@
 {
   "name": "@jest/core",
   "description": "Delightful JavaScript Testing.",
-  "version": "27.0.0-next.3",
+  "version": "27.0.1-next.0",
   "main": "./build/jest.js",
   "types": "./build/jest.d.ts",
   "exports": {
